@@ -114,6 +114,12 @@ main {
     }
 }
 
+footer {
+    font-size: 11px; 
+    text-align: center;
+    color: hsl(228, 45%, 44%);
+}
+
 @media screen and (min-width: 900px) {
     main {
         grid-template-columns: repeat(3, 1fr);
