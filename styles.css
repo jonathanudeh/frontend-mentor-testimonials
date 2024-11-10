@@ -121,8 +121,6 @@ main {
         grid-auto-rows: minmax(2, auto);
         grid-auto-flow: dense;
         gap: 10px;
-        grid-row-gap: 10px;
-        grid-column-gap: 10px;
         place-content: center;
 
         .card:nth-child(1) {
